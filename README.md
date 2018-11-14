@@ -7,10 +7,10 @@
 |Subdomains       | Problem     | Solution     | Note  |
 |:------------- |:-------------:|:-------|-----|
 |**Basic Select**|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|[MS SQL Server](https://github.com/veagy/SQL/blob/master/Basic%20Select/Revising%20the%20Select%20Query%20II)||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
+||[]()|[MySQL]()||
+||[]()|[MySQL]()||
+||[]()|[MySQL]()||
+||[]()|[MySQL]()||
+||[]()|[MySQL]()||
+||[]()|[MySQL]()||
+||[]()|[MySQL]()||
