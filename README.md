@@ -11,6 +11,6 @@
 ||[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Select%20By%20ID)||
 ||[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Japanese%20Cities'%20Attributes)||
 ||[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Japanese%20Cities'%20Names)||
-||[]()|[MS SQL Server]()||
+||[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%201)||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
