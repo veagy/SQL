@@ -10,7 +10,7 @@
 ||[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Select%20All)|select \*|
 ||[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Select%20By%20ID)||
 ||[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Japanese%20Cities'%20Attributes)||
-||[]()|[MS SQL Server]()||
+||[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Japanese%20Cities'%20Names)||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
