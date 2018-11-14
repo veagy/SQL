@@ -13,8 +13,8 @@
 ||[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Japanese%20Cities'%20Names)||
 ||[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%201)||
 ||[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%203)|mod(id,2) for ORACLE|
-||[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%204)||
-||[]()|[MS SQL Server]()||
+||[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%204)|count|
+||[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%205)||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
