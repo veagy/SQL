@@ -18,7 +18,7 @@
 ||[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%206)|distinct where like '[AEIOU]%'|
 ||[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%207)|right(, 1) in ('','')|
 ||[Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%208)|and|
-||[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%209)||
-||[]()|[MS SQL Server]()||
+||[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%209)|'[^AEIOU]%'|
+||[Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%2010)||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
