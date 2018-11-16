@@ -21,8 +21,8 @@
 ||[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%209)|'[^AEIOU]%'|
 ||[Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%2010)|not in|
 ||[Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%2011)|not() logic either not or not|
-||[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%2012)||
-||[]()|[MS SQL Server]()||
+||[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Weather%20Observation%20Station%2012)|logic neither nor|
+||[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Higher%20Than%2075%20Marks)|order by right(, 3), id asc|
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
