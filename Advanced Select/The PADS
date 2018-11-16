@@ -1,1 +1,8 @@
+select concat(Name,'(',substring(OCCUPATION,1,1),')') from occupations order by name
+SELECT "There are a total of ", count(OCCUPATION), concat(lower(occupation),"s.") FROM OCCUPATIONS GROUP BY OCCUPATION ORDER BY count(OCCUPATION) ASC, occupation asc
 
+/*
+Same Output
+select concat(Name,'(',concat(substring(OCCUPATION,1,1),')')) from occupations order by name
+select concat(Name,'(',concat(substring(OCCUPATION,1,1),')')) as name from occupations order by name
+*/
