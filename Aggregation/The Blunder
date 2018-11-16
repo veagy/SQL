@@ -1,1 +1,4 @@
-
+select ceiling(avg(cast((Salary) as decimal)) - AVG(cast(replace(salary, '0','') as decimal))) from employees
+/*
+It's wrong without cast(() as decimal) or use ceil instead of ceiling
+*/
