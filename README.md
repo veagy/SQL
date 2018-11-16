@@ -26,7 +26,7 @@
 ||[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Employee%20Names)|order by string (default asc)|
 ||[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Employee%20Salaries)||
 |**Advanced Select**|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Advanced%20Select/The%20PADS)|concat select "str", count() group by order by ,|
-||[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Advanced%20Select/Occupations)||
+||[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Advanced%20Select/Occupations)|[pivot table](https://en.wikipedia.org/wiki/Pivot_table)|
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
