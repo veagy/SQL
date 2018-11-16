@@ -1,1 +1,1 @@
-
+select distinct city from station where RIGHT(City, 1) IN ('a', 'e', 'i', 'o', 'u')
