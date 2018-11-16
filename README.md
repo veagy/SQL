@@ -27,6 +27,6 @@
 ||[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Select/Employee%20Salaries)||
 |**Advanced Select**|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Advanced%20Select/The%20PADS)|concat select "str", count() group by order by ,|
 ||[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Advanced%20Select/Occupations)|[pivot table](https://en.wikipedia.org/wiki/Pivot_table)|
-|**Aggregation**|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function)||
-||[]()|[MS SQL Server]()||
+|**Aggregation**|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function)|select sum() where str = ''|
+||[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Revising%20Aggregations%20-%20Averages)||
 ||[]()|[MS SQL Server]()||
