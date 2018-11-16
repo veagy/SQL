@@ -1,1 +1,1 @@
-
+select format(sum(LAT_N),'.##'), format(sum(LONG_W),'.##') from station
