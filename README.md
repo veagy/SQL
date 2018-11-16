@@ -29,10 +29,10 @@
 ||[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Advanced%20Select/Occupations)|[pivot table](https://en.wikipedia.org/wiki/Pivot_table)|
 |**Aggregation**|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function)|select sum() where str = ''|
 ||[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Revising%20Aggregations%20-%20Averages)|avg|
-||[Average Population](https://www.hackerrank.com/challenges/average-population/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Average%20Population)||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
+||[Average Population](https://www.hackerrank.com/challenges/average-population/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Average%20Population)|round down to integra floor()|
+||[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Japan%20Population)||
+||[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Population%20Density%20Difference)||
+||[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/The%20Blunder)||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
