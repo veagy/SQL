@@ -1,1 +1,5 @@
+select format(sum(LAT_N), '.####') from station where LAT_N > 38.7880 and LAT_N < 137.2345
 
+OR
+
+select format(sum(LAT_N), '.####') from station where LAT_N between 38.7880 and 137.2345
