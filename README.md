@@ -35,10 +35,10 @@
 ||[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/The%20Blunder)|ceiling, cast(() as decimal), replace(str,'0','')|
 ||[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Top%20Earners)||
 ||[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%202)|format(,'.##')|
-||[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2013)||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
+||[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2013)|between and |
+||[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2014)||
+||[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2015)||
+||[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2016)||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
