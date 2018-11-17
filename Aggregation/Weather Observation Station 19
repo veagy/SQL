@@ -1,1 +1,5 @@
+select format(sqrt(square(max(LAT_N) - min(LAT_N)) + square(max(LONG_W) - min(LONG_W))), '.####') from station
 
+OR
+
+select format(power(power(max(LAT_N) - min(LAT_N),2) + power(max(LONG_W) - min(LONG_W),2),0.5), '.####') from station
