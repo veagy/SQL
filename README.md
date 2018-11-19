@@ -48,7 +48,7 @@
 ||[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/The%20Report)|select case when then else end, order by  desc|
 ||[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/Top%20Competitors)|group by, having, order by have same name with select|
 ||[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/Ollivander's%20Inventory)||
-||[]()|[MS SQL Server]()||
+||[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/Challenges)||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
