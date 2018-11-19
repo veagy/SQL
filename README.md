@@ -43,7 +43,7 @@
 ||[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2018)|[Manhattan Distance](https://xlinux.nist.gov/dads/HTML/manhattanDistance.html) max()-min() or abs( - )|
 ||[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2019)|[Euclidean Distance](https://en.wikipedia.org/wiki/Euclidean_distance), power( , 2), sqrt(), square(), cannot use ()^2 for int|
 ||[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2020)|[median](https://en.wikipedia.org/wiki/Median)|
-||[]()|[MS SQL Server]()||
+|**Basic Join**|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/African%20Cities)||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
