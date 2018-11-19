@@ -1,1 +1,38 @@
+select hackers.hacker_id, hackers.name
+from hackers
+inner join challenges
+    on hackers.hacker_id = challenges.hacker_id
+inner join difficulty
+    on challenges.difficulty_level = difficulty.difficulty_level
+inner join submissions
+    on hackers.hacker_id = submissions.hacker_id
+where submissions.score = difficulty.score and difficulty.difficulty_level = challenges.difficulty_level
+    having count(submissions.hacker_id) > 1
+order by count(submissions.hacker_id) desc, hackers.hacker_id asc
 
+
+select hackers.hacker_id, hackers.name
+from submissions
+inner join challenges
+    on submissions.hacker_id = challenges.hacker_id
+inner join difficulty
+    on challenges.difficulty_level = difficulty.difficulty_level
+inner join hackers
+    on hackers.hacker_id = submissions.hacker_id
+where submissions.score = difficulty.score
+group by hackers.hacker_id, hackers.name
+    having count(hackers.hacker_id) > 1
+order by count(hackers.hacker_id) desc, hackers.hacker_id asc
+
+select h.hacker_id, h.name
+from submissions s
+inner join challenges c
+on s.challenge_id = c.challenge_id
+inner join difficulty d
+on c.difficulty_level = d.difficulty_level 
+inner join hackers h
+on s.hacker_id = h.hacker_id
+where s.score = d.score 
+group by h.hacker_id, h.name
+having count(h.hacker_id) > 1
+order by count(h.hacker_id) desc, h.hacker_id asc;
