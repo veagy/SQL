@@ -1,1 +1,16 @@
-
+WITH a AS (
+    SELECT h.hacker_id hacker_id, name, count(*) count
+    FROM hackers h 
+    Inner JOIN challenges c
+    ON h.hacker_id = c.hacker_id
+    GROUP BY h.hacker_id, name
+)
+SELECT hacker_id, name, a.count
+FROM a 
+Inner join (SELECT count, count(count) ccount 
+            FROM a
+            GROUP BY count
+           ) b 
+ON a.count=b.count
+WHERE ccount=1 OR a.count = (SELECT max(count) FROM a)
+ORDER BY a.count DESC, hacker_id;
