@@ -1,1 +1,14 @@
+Select City.Name From City Inner Join Country 
+On CountryCode = Code
+Where Continent = 'Africa';
 
+OR
+
+Select City.Name From City, Country
+Where Code = CountryCode And Continent = 'Africa';
+
+OR
+
+Select Name From City Where CountryCode In (
+    Select Code From Country Where Continent = 'Africa'
+);
