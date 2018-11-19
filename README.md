@@ -39,10 +39,10 @@
 ||[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2014)||
 ||[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2015)||
 ||[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2016)||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
-||[]()|[MS SQL Server]()||
+||[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2017)||
+||[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2018)|[Manhattan Distance](https://xlinux.nist.gov/dads/HTML/manhattanDistance.html) max()-min() or abs( - )|
+||[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2019)|[Euclidean Distance](https://en.wikipedia.org/wiki/Euclidean_distance), power( , 2), sqrt(), square(), cannot use ()^2 for int|
+||[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2020)|[median](https://en.wikipedia.org/wiki/Median)|
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
