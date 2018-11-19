@@ -50,6 +50,6 @@
 ||[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/Ollivander's%20Inventory)|double select from same tables (as different name)|
 ||[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/Challenges)||
 ||[]()|[MS SQL Server]()||
-|**Alternative Queries**|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|[MS SQL Server]()||
+|**Alternative Queries**|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|[MS SQL Server]()|declare @row int =, while() begin, set @row += 1,  end|
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
