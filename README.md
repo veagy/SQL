@@ -46,7 +46,7 @@
 |**Basic Join**|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/African%20Cities)|inner join,  in(), on = |
 ||[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/Average%20Population%20of%20Each%20Continent)||
 ||[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/The%20Report)|select case when then else end, order by  desc|
-||[]()|[MS SQL Server]()||
+||[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/Top%20Competitors)||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
