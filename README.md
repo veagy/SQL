@@ -45,10 +45,10 @@
 ||[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Aggregation/Weather%20Observation%20Station%2020)|[median](https://en.wikipedia.org/wiki/Median)|
 |**Basic Join**|[African Cities](https://www.hackerrank.com/challenges/african-cities/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/African%20Cities)|inner join,  in(), on = |
 ||[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/Average%20Population%20of%20Each%20Continent)|avg(), group by |
-||[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/The%20Report)|select case when then else end, order by  desc|
-||[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/Top%20Competitors)|group by, having, order by have same name with select|
-||[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/Ollivander's%20Inventory)|double select from same tables (as different name)|
-||[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/Basic%20Join/Challenges)||
+||[The Report](https://www.hackerrank.com/challenges/the-report/problem)|[MS SQL Server]()|select case when then else end, order by  desc|
+||[Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)|[MS SQL Server]()|group by, having, order by have same name with select|
+||[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)|[MS SQL Server]()|double select from same tables (as different name)|
+||[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 |**Alternative Queries**|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|[MS SQL Server]()|declare @row int =, while() begin, set @row += 1,  end|
 ||[]()|[MS SQL Server]()||
