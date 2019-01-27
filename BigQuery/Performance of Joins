@@ -1,5 +1,5 @@
 SELECT wiki1.year, wiki1.month, wiki1.day, sum(wiki2.max_views)
-FROM [bigquery-smaples:wikipedia-benchmark<sixe>] as wiki1
+FROM [bigquery-smaples:wikipedia-benchmark<size>] as wiki1
 JOIN EACH (
 SELECT title, MAX(views) as max_views
 FROM [bigquery-smples:wikipedia-banchmark<size>]
@@ -7,3 +7,7 @@ GROUP EACH BY title
 ) AS wiki2
 ON wiki1.title = wiki2.title
 GROUP EACH BY wiki1.year, wiki1.month, wiki1.day
+
+
+
+Query complete (340.8s elapsed, 4.16 TB processed)
