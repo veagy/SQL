@@ -55,7 +55,7 @@
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 |**Big Query**|[Regex Queries](https://bigquery.cloud.google.com/savedquery/1053141636046:7305c947175b4b4fb9db13d6b79033d7)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/BigQuery/Regex%20Queries)|Regex|
-||[Performance of Joins]()|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/BigQuery/Performance%20of%20Joins)|JOIN EACH|
+||[Performance of Joins](https://bigquery.cloud.google.com/savedquery/1053141636046:c67eab0b44fc4f3ebccef143205da960)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/BigQuery/Performance%20of%20Joins)|JOIN EACH|
 ||[The Query]()|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/BigQuery/The%20Query)||
 ||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
