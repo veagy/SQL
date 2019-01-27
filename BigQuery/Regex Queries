@@ -1,0 +1,5 @@
+SELECT id，title, COUNT(revision_id) AS revisions
+FROM [bigquery-public-data:samples.wikipedia]
+WHERE REGEXP_MATCH(title, "G.*0.*o.*g")
+GROUP BY id, title
+ORDER BY revisions DESC
