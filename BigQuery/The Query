@@ -1,0 +1,6 @@
+SELECT
+  fullName,
+  COUNT(citiesLived.place) WITHIN RECORD AS numberOfPlacesLibed,
+  citiesLived.place,
+  COUNT(citiesLied.yearsLived) WITHIN citiesLied AS numberOfItmesInEachCity,
+FROM [dataset.tableId];
