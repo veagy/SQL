@@ -5,37 +5,4 @@ GROUP BY id, title
 ORDER BY revisions DESC
 
 
-Result: JSON
-
-[
-  {
-    "id": "3414021",
-    "title": "George W. Bush",
-    "revisions": "43652"
-  },
-  {
-    "id": "454409",
-    "title": "Talk:Global warming",
-    "revisions": "25337"
-  },
-  {
-    "id": "5440853",
-    "title": "Talk:George W. Bush",
-    "revisions": "21508"
-  },
-  {
-    "id": "4095360",
-    "title": "User talk:SandyGeorgia",
-    "revisions": "19844"
-  },
-  {
-    "id": "5042951",
-    "title": "Global warming",
-    "revisions": "17368"
-  },
-  {
-    "id": "11968",
-    "title": "George Washington",
-    "revisions": "10964"
-  }
-]
+Result: Query complete (6.8s elapsed, 11.5 GB processed)
