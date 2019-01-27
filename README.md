@@ -51,5 +51,5 @@
 ||[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 |**Alternative Queries**|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|[MS SQL Server]()|declare @row int =, while() begin, set @row += 1,  end, replicate|
-||[]()|[MS SQL Server]()||
+|**Big Query**|[Regex Queries]()|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/BigQuery/Regex%20Queries)|Regex|
 ||[]()|[MS SQL Server]()||
