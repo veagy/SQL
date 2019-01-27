@@ -51,5 +51,14 @@
 ||[Challenges](https://www.hackerrank.com/challenges/challenges/problem)|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
 |**Alternative Queries**|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)|[MS SQL Server]()|declare @row int =, while() begin, set @row += 1,  end, replicate|
-|**Big Query**|[Regex Queries]()|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/BigQuery/Regex%20Queries)|Regex|
+||[]()|[MS SQL Server]()||
+||[]()|[MS SQL Server]()||
+||[]()|[MS SQL Server]()||
+|**Big Query**|[Regex Queries](https://bigquery.cloud.google.com/savedquery/1053141636046:7305c947175b4b4fb9db13d6b79033d7)|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/BigQuery/Regex%20Queries)|Regex|
+||[Performance of Joins]()|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/BigQuery/Performance%20of%20Joins)|JOIN EACH|
+||[The Query]()|[MS SQL Server](https://github.com/veagy/SQL-HackerRank/blob/master/BigQuery/The%20Query)||
+||[]()|[MS SQL Server]()||
+||[]()|[MS SQL Server]()||
+||[]()|[MS SQL Server]()||
+||[]()|[MS SQL Server]()||
 ||[]()|[MS SQL Server]()||
