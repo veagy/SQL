@@ -5,7 +5,7 @@ GROUP BY id, title
 ORDER BY revisions DESC
 
 
-Result: JASON
+Result: JSON
 
 [
   {
