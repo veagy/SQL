@@ -1,0 +1,16 @@
+SELECT block_id, transactions.transaction_id 
+FROM [bigquery-public-data:bitcoin_blockchain.blocks]
+WHERE block_id = "000000000000000001bfd9fd6e70e9040eba8e99fc30b1509e3bd08281aedfbc"
+LIMIT 10
+
+#result Query complete (3.4s elapsed, 21.0 GB processed)
+https://bigquery.cloud.google.com/savedquery/1053141636046:862bd220ffd2475fafa592501d6e0e26
+
+
+SELECT block_id, transaction_id
+FROM [bigquery-public-data:bitcoin_blockchain.transactions]
+WHERE block_id = "000000000000000001bfd9fd6e70e9040eba8e99fc30b1509e3bd08281aedfbc"
+LIMIT 10
+
+#result Query complete (3.3s elapsed, 41.8 GB processed)
+https://bigquery.cloud.google.com/savedquery/1053141636046:420b48f2f6844007af758499596abd87
