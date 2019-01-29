@@ -1,0 +1,12 @@
+SELECT
+  commit,
+  parent,
+  author.name
+FROM
+  [bigquery-public-data:github_repos.commits]
+LIMIT
+  1000
+  
+Result: 1083
+Query complete (2.6s elapsed, 21.0 GB processed)
+https://bigquery.cloud.google.com/savedquery/1053141636046:28a2a4810d4d4ff5a4d6fed816192539
