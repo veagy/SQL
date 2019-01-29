@@ -1,0 +1,26 @@
+SELECT
+  commit,
+  parent,
+  author
+FROM
+  [bigquery-public-data:github_repos.commits]
+LIMIT
+  1000
+  
+Result: 
+Query Failed
+Error: Field author from table bigquery-public-data:github_repos.commits is not a leaf field.
+https://bigquery.cloud.google.com/savedquery/1053141636046:955869bfb172434e8d456f44361e8650
+
+SELECT
+  commit,
+  parent,
+  author.name
+FROM
+  [bigquery-public-data:github_repos.commits]
+LIMIT
+  1000
+  
+Result: 1132
+Query complete (0.9s elapsed, cached)
+https://bigquery.cloud.google.com/savedquery/1053141636046:be773c871d8a49ed83c45a844eae2eaa
