@@ -7,7 +7,7 @@ FROM
 LIMIT
   1000
   
-Result: 1083
+Result: 1083 (Multiple repeated data (parents))
 Query complete (2.6s elapsed, 21.0 GB processed)
 https://bigquery.cloud.google.com/savedquery/1053141636046:28a2a4810d4d4ff5a4d6fed816192539
 
@@ -30,3 +30,17 @@ WHERE prnt_1 <> prnt_n
 Result: 100
 Query complete (1.9s elapsed, 21.4 GB processed)
 https://bigquery.cloud.google.com/savedquery/1053141636046:7efcc7abad074b4e91fcddedfd527f28
+
+
+SELECT
+  commit,
+  LAST(parent) WITHIN RECORD AS prnt,
+  author.name
+FROM
+  [bigquery-public-data:github_repos.commits]
+LIMIT
+  1000
+  
+Result: 100
+Query complete (1.6s elapsed, 21.4 GB processed)
+https://bigquery.cloud.google.com/savedquery/1053141636046:eaed494a76484f6da47733cda832411a
