@@ -1,0 +1,6 @@
+SELECT provider_id, hospital_name, address, city, state, zip_code
+FROM [bigquery-public-data:cms_medicare.hospital_general_info]
+WHERE hospital_overall_rating = '1'
+
+Query complete (1.3s elapsed, 408 KB processed)
+https://bigquery.cloud.google.com/savedquery/1053141636046:7c4858498969440288be5ae982c179c9
