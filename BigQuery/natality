@@ -1,0 +1,7 @@
+SELECT COUNT(*)
+FROM [bigquery-public-data:samples.natality]
+WHERE state = 'MA' AND year = 2000
+
+Result: 82673
+Query complete (2.2s elapsed, 1.48 GB processed)
+https://bigquery.cloud.google.com/savedquery/1053141636046:9d68e195c2ff4c01b8fe005c2b86046f
